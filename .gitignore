@@ -1,0 +1,17 @@
+# Java / Maven
+/target/
+**/target/
+*.class
+*.jar
+*.war
+
+# Node / frontend
+OfflinePay-Frontend-FRESH/node_modules/
+OfflinePay-Frontend-FRESH/dist/
+OfflinePay-Frontend-FRESH/.vite/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.iml
